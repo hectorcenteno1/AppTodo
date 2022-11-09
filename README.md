@@ -1,14 +1,4 @@
-# Webpack Starter
+# App Todo
 
-Este es el proyecto incial para crear aplicaciones utilizando webpack.
+Este es el proyecto para agregar quitar y marcar nuestras tareas realizadas.
 
-### Notas:
-Recuerden reconstruir los modulos de Node
-```
-npm istall
-```
-
-Y para construir el build, recuerden :
-```
-npm run build
-```
